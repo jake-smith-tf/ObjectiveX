@@ -89,7 +89,7 @@
 			children = (
 				872EEED71D772283003D90FC /* ObjectiveX */,
 				872EEEEC1D772283003D90FC /* ObjectiveXTests */,
-				872EEEF71D772283003D90FC /* ExamMateUITests */,
+				872EEEF71D772283003D90FC /* ObjectiveXUITests */,
 				872EEED61D772283003D90FC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -132,12 +132,13 @@
 			path = ExamMateTests;
 			sourceTree = "<group>";
 		};
-		872EEEF71D772283003D90FC /* ExamMateUITests */ = {
+		872EEEF71D772283003D90FC /* ObjectiveXUITests */ = {
 			isa = PBXGroup;
 			children = (
 				872EEEF81D772283003D90FC /* ExamMateUITests.swift */,
 				872EEEFA1D772283003D90FC /* Info.plist */,
 			);
+			name = ObjectiveXUITests;
 			path = ExamMateUITests;
 			sourceTree = "<group>";
 		};
